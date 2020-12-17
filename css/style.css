@@ -1,6 +1,6 @@
 /*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
+	Author: Sajhan
+	Author URL: https://sajhanxmuhd.tk
 --*/
 
 
@@ -1176,11 +1176,14 @@ figure.effect-apollo:hover figcaption::before {
 
 .agilefooterwthree {
 	background-color: #262626;
-	padding: 75px 0;
+	padding: 100px 0;
+
 }
 
 .agilefooterwthree-grid, .agilefooterwthreebottom-grid {
-	padding: 0;
+	padding: 100;
+  position:relative
+    top: -10px;
 }
 
 .agilefooterwthree-grid h4 {
@@ -1204,6 +1207,7 @@ figure.effect-apollo:hover figcaption::before {
 }
 
 .agilefooterwthreebottom {
+  right: 50px;
 	margin-top: 10px;
 	padding-top: 30px;
 	border-top: 1px solid #777;
